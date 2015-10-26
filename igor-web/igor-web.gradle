@@ -29,6 +29,7 @@ dependencies {
 
     compile 'org.yaml:snakeyaml:1.15'
     compile 'com.squareup.retrofit:converter-simplexml:1.5.1'
+    compile 'org.springframework.cloud:spring-cloud-starter-config:1.0.3.RELEASE'
     testCompile 'com.squareup.okhttp:mockwebserver:2.1.0'
 }
 
